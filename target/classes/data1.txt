@@ -1,0 +1,10 @@
+2586,Ivanov,Andrey,34
+8965,Petrov,Saveliy,24
+8562,Sidorov,Pavel,19
+3522,Petrov,Igor,44
+5632,Ivanov,Roman,24
+3625,Paramonov,Roman,19
+9635,Kutikov,Fedor,16
+9765,Petrov,Igor,35
+1111,Sidorov,Pavel,38
+2222,Paramonov,Roman,40
